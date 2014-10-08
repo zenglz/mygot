@@ -1,0 +1,5 @@
+1:you are
+4:how are you
+5:and you
+6:fine thank you
+total num is: 4
